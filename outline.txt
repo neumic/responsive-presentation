@@ -1,0 +1,16 @@
+Responsive Design using Bootstrap
+
+-What Responsive Design is:
+	1) A way of designing web interfaces so that they adapt or respond the layout to fit the 'view-port'.
+	2) A buzz word that pops up in client and presales conversations causing anguish and distress and 32 hour estimates.
+	3) Not really that hard, if you start with it in mind. (on the Dev side of things)
+	4) Basically, at it's core, Responsive Design is really just creating 3-4 layouts for the same content.
+
+-What Responsive Design isn't:
+	1) "Make it look exactly the same in all browsers and operating systems."
+	2) "Make it look completely different on a mobile screen."
+	3) A purely Dev task ("Make the home screen responsive")
+
+-An Example:
+
+-Let's try:
